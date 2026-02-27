@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ボタンがクリックされた時の処理
     btn.addEventListener('click', () => {
-        alert('JavaScriptが動いたよ!開発スタート！🔥');
+        alert('JavaScriptが動いたよ！開発スタート！🔥');
     });
 
 });

@@ -78,3 +78,10 @@ footer {
   font-size: 0.85rem;
   color: #e7e5e5;
 }
+
+.hero-item{
+    position: relative;
+    
+    border-radius: 16px;
+    display: block;
+}
